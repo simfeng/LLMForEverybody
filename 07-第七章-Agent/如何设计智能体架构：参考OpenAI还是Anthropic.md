@@ -26,7 +26,7 @@ Agent是LLM动态指导自身流程和工具使用的系统，从而保持对任
 
 同时Anthropic还给出了这两种Agentic sysytems的设计模式，如果你已经做了很长时间的大模型应用，你会发现下图很容易理解。
 
-![alt text](assest/如何设计智能体架构：参考OpenAI还是Anthropic?/1.png)
+![alt text](assest/如何设计智能体架构：参考OpenAI还是Anthropic/1.png)
 
 ## 3. OpenAI的理解
 
@@ -48,7 +48,7 @@ OpenAI在他的文章里，给出了四个关键词：model，tool，instruction
 
 同时，作为老大哥，OpenAI等大厂需要比其它小公司更关注安全方面的事情，为此他们单独开辟了一章来讲Guardrails
 
-![alt text](assest/如何设计智能体架构：参考OpenAI还是Anthropic?/2.png)
+![alt text](assest/如何设计智能体架构：参考OpenAI还是Anthropic/2.png)
 
 如果你看这篇文章，你会发现其对Agent的理解更多的就是Anthropic文章中的Agent，而不是Agentic Systems.
 
@@ -60,7 +60,7 @@ OpenAI在他的文章里，给出了四个关键词：model，tool，instruction
 
 #### 4.1.1 常见错误来源
 
-![alt text](assest/如何设计智能体架构：参考OpenAI还是Anthropic?/3.png)
+![alt text](assest/如何设计智能体架构：参考OpenAI还是Anthropic/3.png)
 
 #### 4.1.2 LLM应用的3个能力
 
@@ -89,7 +89,7 @@ LLM应用架构主要做任务的拆解和检索增强
 
 #### 4.2.1 架构图
 
-![alt text](assest/如何设计智能体架构：参考OpenAI还是Anthropic?/4.png)
+![alt text](assest/如何设计智能体架构：参考OpenAI还是Anthropic/4.png)
 
 #### 4.2.2 任务拆解
 
@@ -113,7 +113,7 @@ LLM应用架构主要做任务的拆解和检索增强
 
 ### 4.3、LLM应用的知识工程
 
-![alt text](assest/如何设计智能体架构：参考OpenAI还是Anthropic?/5.png)
+![alt text](assest/如何设计智能体架构：参考OpenAI还是Anthropic/5.png)
 
 从数据原始的结构形式出发
 
@@ -157,7 +157,7 @@ Prompt要明确、具体，不要自带歧义
 
 #### 4.5.1 评估指标
 
-![alt text](assest/如何设计智能体架构：参考OpenAI还是Anthropic?/6.png)
+![alt text](assest/如何设计智能体架构：参考OpenAI还是Anthropic/6.png)
 
 **对于有反馈的生成类任务**：主要指的是Text-to-SQL和Text-to-Code这种，我们可以通过编写标准的SQL，或者编写单元测试来测试任务的准确率。
 
