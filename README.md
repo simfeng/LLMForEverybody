@@ -41,6 +41,28 @@ LearnLLM.AI 团队
 <a href="https://juejin.cn/user/3824524390049531"> <img src="pic/common/svg/juejin.svg"> </a>
 </p> 
 
+<details open>
+<summary>里程碑论文（is major）</summary>
+
+| 论文标题 | 作者/机构 | 年份 | 论文链接 | 简短描述 | 视频链接 | 视频封面 |
+| --- | --- | --- | --- | --- | --- | --- |
+| Attention Is All You Need | Google | 2017 | [论文](https://arxiv.org/abs/1706.03762) | 在 Transformer 出现之前，处理序列数据（如语言）的主流模型是循环神经网络（RNN）及其变体（如 LST... | [视频](https://www.bilibili.com/video/BV1YPrKBuEjk) | ![封面](https://learnllm.ai/video_cover/transformer.jpg) |
+| Deep reinforcement learning from human preferences | OpenAI | 2017 | [论文](https://arxiv.org/abs/1706.03741) | 传统强化学习需要设计精确的奖励函数，但这在复杂任务中可能不切实际 |  |  |
+| Improving Language Understanding by Generative Pre-Training | OpenAI | 2018 | [论文](https://cdn.openai.com/research-covers/language-unsupervised/language_understanding_paper.pdf) | 在 GPT-1 出现之前，主流自然语言处理方法严重依赖针对特定任务的大规模高质量标注数据进行有监督训练 | [视频](https://www.bilibili.com/video/BV1gW6QBFEG4) | ![封面](https://learnllm.ai/video_cover/gpt1.jpg) |
+| BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding | Google | 2018 | [论文](https://arxiv.org/abs/1810.04805) | 在发布之初，BERT 在 11 项自然语言理解任务上取得了碾压性的突破，其"深层双向编码器"架构在需要深度语义理解... | [视频](https://www.bilibili.com/video/BV1n2kFBgEJ5) | ![封面](https://learnllm.ai/video_cover/bert.jpg) |
+| Language Models are Unsupervised Multitask Learners | OpenAI | 2019 | [论文](https://cdn.openai.com/better-language-models/language_models_are_unsupervised_multitask_learners.pdf) | 2018 年，当 GPT-1 发布后不久，谷歌推出的 BERT 模型凭借其双向 Transformer 编码器架构... | [视频](https://www.bilibili.com/video/BV1VwkWBtEfe) | ![封面](https://learnllm.ai/video_cover/gpt2.jpg) |
+| Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer | Google | 2019 | [论文](https://arxiv.org/abs/1910.10683) | 在 T5 问世之前，NLP 领域虽然已经因 BERT 和 GPT 的出现进入了预训练-微调的时代，但也面临着"幸福... | [视频](https://www.bilibili.com/video/BV1fHBfBdEGY) | ![封面](https://learnllm.ai/video_cover/t5.jpg) |
+| Language Models are Few-Shot Learners | OpenAI | 2020 | [论文](https://arxiv.org/abs/2005.14165) | 在 GPT-3 问世之前，自然语言处理领域的主流范式是"预训练 + 微调" | [视频](https://www.bilibili.com/video/BV14Z63ByEWV) | ![封面](https://learnllm.ai/video_cover/gpt3.jpg) |
+| Evaluating Large Language Models Trained on Code | OpenAI | 2021 | [论文](https://arxiv.org/abs/2107.03374) | OpenAI 在 2021 年发布的论文《Evaluating Large Language Models Tra... | [视频](https://www.bilibili.com/video/BV1JC67BEE7b) | ![封面](https://learnllm.ai/video_cover/codex.jpg) |
+| Competition-Level Code Generation with AlphaCode | Google | 2022 | [论文](https://arxiv.org/abs/2203.07814) | AlphaCode 在著名的竞争性编程平台 Codeforces 的比赛中进行了评估，其表现估计相当于人类参赛者的... |  |  |
+| Training language models to follow instructions with human feedback | OpenAI | 2022 | [论文](https://arxiv.org/abs/2203.02155) | InstructGPT 是 OpenAI 在 GPT-3 之后提出的一种关键模型，它标志着人工智能对齐领域的一个重... |  |  |
+| LLaMA: Open and Efficient Foundation Language Models | Meta | 2023 | [论文](https://arxiv.org/pdf/2302.13971) | LLaMA 1 的核心在于其独特的研究目标：它并非追求最大的参数量，而是旨在给定的推理预算下实现最高的性能，从而挑... |  |  |
+| Llama 2: Open Foundation and Fine-Tuned Chat Models | Meta | 2023 | [论文](https://arxiv.org/abs/2307.09288) | LLaMA-2 是 Meta 发布的一系列开源大语言模型，涵盖从 70 亿到 700 亿参数的规模，其核心贡献在于... |  |  |
+
+
+<details>
+<summary>原有文章目录</summary>
+
 ## 目录
 
 - 🐳[序-AGI之路](#序-AGI之路)
@@ -64,6 +86,7 @@ LearnLLM.AI 团队
 - 🐰[第九章-大模型评估指标](#第九章-大模型评估指标)
 - 🐷[第十章-热点](#第十章-热点)
 - 🦁[第十一章-数学](#第十一章-数学)
+</details>
 
 ## 序-AGI之路
 
