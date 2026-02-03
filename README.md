@@ -42,7 +42,7 @@ LearnLLM.AI 团队
 </p> 
 
 <details open>
-<summary>里程碑论文（is major）</summary>
+<summary>LLM 精选论文</summary>
 
 | 论文标题 | 作者/机构 | 年份 | 论文链接 | 简短描述 | 视频链接 | 视频封面 |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -60,8 +60,8 @@ LearnLLM.AI 团队
 | Llama 2: Open Foundation and Fine-Tuned Chat Models | Meta | 2023 | [论文](https://arxiv.org/abs/2307.09288) | LLaMA-2 是 Meta 发布的一系列开源大语言模型，涵盖从 70 亿到 700 亿参数的规模，其核心贡献在于... |  |  |
 
 
-<details>
-<summary>原有文章目录</summary>
+<details open>
+<summary>AGI 之路</summary>
 
 ## 目录
 
