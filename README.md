@@ -8,7 +8,6 @@
 <img src="pic/common/pr/learnllm.png" alt="LearnLLM.AI" width="600">
 </p>
 
-<h1 align="center">LearnLLM.AI</h1>
 <p align="center"><strong>Learning LLM is all you need.</strong></p>
 
 <p align="center"><strong>👉 点击 <a href="https://learnllm.ai?ref=github">LearnLLM.AI</a> | 学习大模型，从这里开始</strong></p>
