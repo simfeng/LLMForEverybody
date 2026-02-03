@@ -12,7 +12,7 @@
 
 **👉 点击这里 [LearnLLM.AI](https://learnllm.ai?ref=github) | 学习大模型，从这里开始**
 
-**LearnLLM.AI 核心亮点**
+## LearnLLM.AI 核心亮点
 
  **精选大模型面试题库** ：覆盖从基础到前沿的实战题目，助您高效备战求职，抓住职业机遇；
 
@@ -21,7 +21,7 @@
 
 **专属优惠码**
 
-我们为Github用户准备了限时专属优惠码：***GITHUB50*** ，期待在LearnLLM.AI与您继续同行，共同成长！
+我们为Github用户准备了限时专属优惠码：***GITHUB50*** ，期待在 [LearnLLM.AI](https://learnllm.ai?ref=github) 与您继续同行，共同成长！
 
 **配套视频教程(持续更新中)**：
 
@@ -29,13 +29,14 @@
 
 👉 点击这里 [YouTube](https://www.youtube.com/@learnllm-ai)
 
-如有疑问，欢迎随时联系我们。
+*如有疑问，欢迎随时联系我们。*
 
-Happy Learning！
+*Happy Learning！*
 
-LearnLLM.AI 团队
+*LearnLLM.AI 团队*
 
 **LearnLLM.AI | Learning LLM is all you need.**
+
 ---
 
 ## LLM 精选论文
