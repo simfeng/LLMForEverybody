@@ -56,6 +56,12 @@
 | 2023-10-10 | [Mistral 7B](https://arxiv.org/abs/2310.06825) |  | [![LearnLLM.AI](https://img.shields.io/badge/LearnLLM.AI-green)](https://www.learnllm.ai/learning?milestone=mistral-7b&ref=github) |
 持续更新中...
 
+<details open>
+<summary>点击展开/收起</summary>
+
+<img src="pic/paper_roadmap.png" alt="roadmap" />
+</details>
+
 ## AGI 之路
 
 <details open>
