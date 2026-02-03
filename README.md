@@ -35,8 +35,6 @@
 
 *LearnLLM.AI 团队*
 
-**LearnLLM.AI | Learning LLM is all you need.**
-
 ---
 
 ## LLM 精选论文
@@ -402,12 +400,9 @@
 
 ---
 
-## 🌐 点击这里 [LearnLLM.AI](https://learnllm.ai?ref=github) | 学习大模型，从这里开始
+## 🌐 点击 [LearnLLM.AI](https://learnllm.ai?ref=github) | 学习大模型，从这里开始
 
 Learning LLM is all you need.
 
-<img src="pic/common/pr/learnllm.png" alt="LearnLLM.AI" width="600">
-
-## Star History
 
 [![Star History Chart](https://api.star-history.com/svg?repos=luhengshiwo/LLMForEverybody&type=Date)](https://star-history.com/#luhengshiwo/LLMForEverybody&Date)
