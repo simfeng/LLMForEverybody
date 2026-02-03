@@ -39,20 +39,20 @@
 
 ## LLM 精选论文
 
-| 论文 | 作者/机构 | 年份 | 视频 |
+| 年份 | 论文 | 作者/机构 | 视频 |
 | --- | --- | --- | --- |
-| [Attention Is All You Need](https://arxiv.org/abs/1706.03762) | Google | 2017 | [<img src="https://learnllm.ai/video_cover/transformer.jpg" width="200">](https://www.bilibili.com/video/BV1YPrKBuEjk) |
-| [Deep reinforcement learning from human preferences](https://arxiv.org/abs/1706.03741) | OpenAI | 2017 |  |
-| [Improving Language Understanding by Generative Pre-Training](https://cdn.openai.com/research-covers/language-unsupervised/language_understanding_paper.pdf) | OpenAI | 2018 | [<img src="https://learnllm.ai/video_cover/gpt1.jpg" width="200">](https://www.bilibili.com/video/BV1gW6QBFEG4) |
-| [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](https://arxiv.org/abs/1810.04805) | Google | 2018 | [<img src="https://learnllm.ai/video_cover/bert.jpg" width="200">](https://www.bilibili.com/video/BV1n2kFBgEJ5) |
-| [Language Models are Unsupervised Multitask Learners](https://cdn.openai.com/better-language-models/language_models_are_unsupervised_multitask_learners.pdf) | OpenAI | 2019 | [<img src="https://learnllm.ai/video_cover/gpt2.jpg" width="200">](https://www.bilibili.com/video/BV1VwkWBtEfe) |
-| [Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer](https://arxiv.org/abs/1910.10683) | Google | 2019 | [<img src="https://learnllm.ai/video_cover/t5.jpg" width="200">](https://www.bilibili.com/video/BV1fHBfBdEGY) |
-| [Language Models are Few-Shot Learners](https://arxiv.org/abs/2005.14165) | OpenAI | 2020 | [<img src="https://learnllm.ai/video_cover/gpt3.jpg" width="200">](https://www.bilibili.com/video/BV14Z63ByEWV) |
-| [Evaluating Large Language Models Trained on Code](https://arxiv.org/abs/2107.03374) | OpenAI | 2021 | [<img src="https://learnllm.ai/video_cover/codex.jpg" width="200">](https://www.bilibili.com/video/BV1JC67BEE7b) |
-| [Competition-Level Code Generation with AlphaCode](https://arxiv.org/abs/2203.07814) | Google | 2022 |  |
-| [Training language models to follow instructions with human feedback](https://arxiv.org/abs/2203.02155) | OpenAI | 2022 |  |
-| [LLaMA: Open and Efficient Foundation Language Models](https://arxiv.org/pdf/2302.13971) | Meta | 2023 |  |
-| [Llama 2: Open Foundation and Fine-Tuned Chat Models](https://arxiv.org/abs/2307.09288) | Meta | 2023 |  |
+| 2017 | [Attention Is All You Need](https://arxiv.org/abs/1706.03762) | Google | [<img src="https://learnllm.ai/video_cover/transformer.jpg" width="200">](https://www.bilibili.com/video/BV1YPrKBuEjk) |
+| 2017 | [Deep reinforcement learning from human preferences](https://arxiv.org/abs/1706.03741) | OpenAI |  |
+| 2018 | [Improving Language Understanding by Generative Pre-Training](https://cdn.openai.com/research-covers/language-unsupervised/language_understanding_paper.pdf) | OpenAI | [<img src="https://learnllm.ai/video_cover/gpt1.jpg" width="200">](https://www.bilibili.com/video/BV1gW6QBFEG4) |
+| 2018 | [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](https://arxiv.org/abs/1810.04805) | Google | [<img src="https://learnllm.ai/video_cover/bert.jpg" width="200">](https://www.bilibili.com/video/BV1n2kFBgEJ5) |
+| 2019 | [Language Models are Unsupervised Multitask Learners](https://cdn.openai.com/better-language-models/language_models_are_unsupervised_multitask_learners.pdf) | OpenAI | [<img src="https://learnllm.ai/video_cover/gpt2.jpg" width="200">](https://www.bilibili.com/video/BV1VwkWBtEfe) |
+| 2019 | [Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer](https://arxiv.org/abs/1910.10683) | Google | [<img src="https://learnllm.ai/video_cover/t5.jpg" width="200">](https://www.bilibili.com/video/BV1fHBfBdEGY) |
+| 2020 | [Language Models are Few-Shot Learners](https://arxiv.org/abs/2005.14165) | OpenAI | [<img src="https://learnllm.ai/video_cover/gpt3.jpg" width="200">](https://www.bilibili.com/video/BV14Z63ByEWV) |
+| 2021 | [Evaluating Large Language Models Trained on Code](https://arxiv.org/abs/2107.03374) | OpenAI | [<img src="https://learnllm.ai/video_cover/codex.jpg" width="200">](https://www.bilibili.com/video/BV1JC67BEE7b) |
+| 2022 | [Competition-Level Code Generation with AlphaCode](https://arxiv.org/abs/2203.07814) | Google |  |
+| 2022 | [Training language models to follow instructions with human feedback](https://arxiv.org/abs/2203.02155) | OpenAI |  |
+| 2023 | [LLaMA: Open and Efficient Foundation Language Models](https://arxiv.org/pdf/2302.13971) | Meta |  |
+| 2023 | [Llama 2: Open Foundation and Fine-Tuned Chat Models](https://arxiv.org/abs/2307.09288) | Meta |  |
 
 ## AGI 之路
 
@@ -401,8 +401,6 @@
 ---
 
 ## 🌐 点击 [LearnLLM.AI](https://learnllm.ai?ref=github) | 学习大模型，从这里开始
-
-Learning LLM is all you need.
 
 
 [![Star History Chart](https://api.star-history.com/svg?repos=luhengshiwo/LLMForEverybody&type=Date)](https://star-history.com/#luhengshiwo/LLMForEverybody&Date)
