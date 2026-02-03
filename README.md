@@ -53,6 +53,8 @@
 | 2023 | [LLaMA: Open and Efficient Foundation Language Models](https://arxiv.org/pdf/2302.13971) |  | [LearnLLM.AI](https://www.learnllm.ai/learning?milestone=llama1&ref=github) |
 | 2023 | [Llama 2: Open Foundation and Fine-Tuned Chat Models](https://arxiv.org/abs/2307.09288) |  | [LearnLLM.AI](https://www.learnllm.ai/learning?milestone=llama2&ref=github) |
 
+持续更新中...
+
 ## AGI 之路
 
 <details open>
