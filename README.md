@@ -1,3 +1,10 @@
+<p> 
+<a href="https://mp.weixin.qq.com/s/cV6v7yGmwYa2WwNDZjLPiQ"> <img src="pic/common/svg/wechat.svg" > </a>
+<a href="https://www.zhihu.com/people/luhengshiwo"> <img src="pic/common/svg/zhihu.svg"> </a>
+<a href="https://blog.csdn.net/qq_25295605?spm=1011.2415.3001.5343"> <img src="pic/common/svg/csdn.svg"> </a>
+<a href="https://juejin.cn/user/3824524390049531"> <img src="pic/common/svg/juejin.svg"> </a>
+</p>
+
 # LearnLLM.AI | Learning LLM is all you need. 
 
 ![LearnLLM.AI](pic/common/pr/learnllm.png)
@@ -31,14 +38,7 @@ LearnLLM.AI 团队
 ---
 
 ## LearnLLM.AI | Learning LLM is all you need.
-<p> 
-<a href="https://github.com/luhengshiwo/LLMForEverybody/stargazers">
-<img src="pic/common/svg/github.svg" > </a>
-<a href="https://mp.weixin.qq.com/s/cV6v7yGmwYa2WwNDZjLPiQ"> <img src="pic/common/svg/wechat.svg" > </a>
-<a href="https://www.zhihu.com/people/luhengshiwo"> <img src="pic/common/svg/zhihu.svg"> </a>
-<a href="https://blog.csdn.net/qq_25295605?spm=1011.2415.3001.5343"> <img src="pic/common/svg/csdn.svg"> </a>
-<a href="https://juejin.cn/user/3824524390049531"> <img src="pic/common/svg/juejin.svg"> </a>
-</p> 
+
 
 ## LLM 精选论文
 
