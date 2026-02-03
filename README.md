@@ -1,9 +1,8 @@
-
 # LearnLLM.AI | Learning LLM is all you need. 
 
 ![LearnLLM.AI](pic/common/pr/learnllm.png)
 
-# 👉 点击这里 [LearnLLM.AI](https://learnllm.ai?ref=github) | 学习大模型，从这里开始
+## 👉 点击这里 [LearnLLM.AI](https://learnllm.ai?ref=github) | 学习大模型，从这里开始
 
 ## LearnLLM.AI 核心亮点
 
@@ -31,7 +30,7 @@ LearnLLM.AI 团队
 
 ---
 
-# LearnLLM.AI | Learning LLM is all you need.
+## LearnLLM.AI | Learning LLM is all you need.
 <p> 
 <a href="https://github.com/luhengshiwo/LLMForEverybody/stargazers">
 <img src="pic/common/svg/github.svg" > </a>
@@ -41,29 +40,26 @@ LearnLLM.AI 团队
 <a href="https://juejin.cn/user/3824524390049531"> <img src="pic/common/svg/juejin.svg"> </a>
 </p> 
 
-<details open>
-<summary>LLM 精选论文</summary>
+## LLM 精选论文
 
-| 论文标题 | 作者/机构 | 年份 | 论文链接 | 简短描述 | 视频链接 | 视频封面 |
-| --- | --- | --- | --- | --- | --- | --- |
-| Attention Is All You Need | Google | 2017 | [论文](https://arxiv.org/abs/1706.03762) | 在 Transformer 出现之前，处理序列数据（如语言）的主流模型是循环神经网络（RNN）及其变体（如 LST... | [视频](https://www.bilibili.com/video/BV1YPrKBuEjk) | ![封面](https://learnllm.ai/video_cover/transformer.jpg) |
-| Deep reinforcement learning from human preferences | OpenAI | 2017 | [论文](https://arxiv.org/abs/1706.03741) | 传统强化学习需要设计精确的奖励函数，但这在复杂任务中可能不切实际 |  |  |
-| Improving Language Understanding by Generative Pre-Training | OpenAI | 2018 | [论文](https://cdn.openai.com/research-covers/language-unsupervised/language_understanding_paper.pdf) | 在 GPT-1 出现之前，主流自然语言处理方法严重依赖针对特定任务的大规模高质量标注数据进行有监督训练 | [视频](https://www.bilibili.com/video/BV1gW6QBFEG4) | ![封面](https://learnllm.ai/video_cover/gpt1.jpg) |
-| BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding | Google | 2018 | [论文](https://arxiv.org/abs/1810.04805) | 在发布之初，BERT 在 11 项自然语言理解任务上取得了碾压性的突破，其"深层双向编码器"架构在需要深度语义理解... | [视频](https://www.bilibili.com/video/BV1n2kFBgEJ5) | ![封面](https://learnllm.ai/video_cover/bert.jpg) |
-| Language Models are Unsupervised Multitask Learners | OpenAI | 2019 | [论文](https://cdn.openai.com/better-language-models/language_models_are_unsupervised_multitask_learners.pdf) | 2018 年，当 GPT-1 发布后不久，谷歌推出的 BERT 模型凭借其双向 Transformer 编码器架构... | [视频](https://www.bilibili.com/video/BV1VwkWBtEfe) | ![封面](https://learnllm.ai/video_cover/gpt2.jpg) |
-| Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer | Google | 2019 | [论文](https://arxiv.org/abs/1910.10683) | 在 T5 问世之前，NLP 领域虽然已经因 BERT 和 GPT 的出现进入了预训练-微调的时代，但也面临着"幸福... | [视频](https://www.bilibili.com/video/BV1fHBfBdEGY) | ![封面](https://learnllm.ai/video_cover/t5.jpg) |
-| Language Models are Few-Shot Learners | OpenAI | 2020 | [论文](https://arxiv.org/abs/2005.14165) | 在 GPT-3 问世之前，自然语言处理领域的主流范式是"预训练 + 微调" | [视频](https://www.bilibili.com/video/BV14Z63ByEWV) | ![封面](https://learnllm.ai/video_cover/gpt3.jpg) |
-| Evaluating Large Language Models Trained on Code | OpenAI | 2021 | [论文](https://arxiv.org/abs/2107.03374) | OpenAI 在 2021 年发布的论文《Evaluating Large Language Models Tra... | [视频](https://www.bilibili.com/video/BV1JC67BEE7b) | ![封面](https://learnllm.ai/video_cover/codex.jpg) |
-| Competition-Level Code Generation with AlphaCode | Google | 2022 | [论文](https://arxiv.org/abs/2203.07814) | AlphaCode 在著名的竞争性编程平台 Codeforces 的比赛中进行了评估，其表现估计相当于人类参赛者的... |  |  |
-| Training language models to follow instructions with human feedback | OpenAI | 2022 | [论文](https://arxiv.org/abs/2203.02155) | InstructGPT 是 OpenAI 在 GPT-3 之后提出的一种关键模型，它标志着人工智能对齐领域的一个重... |  |  |
-| LLaMA: Open and Efficient Foundation Language Models | Meta | 2023 | [论文](https://arxiv.org/pdf/2302.13971) | LLaMA 1 的核心在于其独特的研究目标：它并非追求最大的参数量，而是旨在给定的推理预算下实现最高的性能，从而挑... |  |  |
-| Llama 2: Open Foundation and Fine-Tuned Chat Models | Meta | 2023 | [论文](https://arxiv.org/abs/2307.09288) | LLaMA-2 是 Meta 发布的一系列开源大语言模型，涵盖从 70 亿到 700 亿参数的规模，其核心贡献在于... |  |  |
+| 论文标题 | 作者/机构 | 年份 | 论文链接 | 视频 |
+| --- | --- | --- | --- | --- |
+| Attention Is All You Need | Google | 2017 | [论文](https://arxiv.org/abs/1706.03762) | [![封面](https://learnllm.ai/video_cover/transformer.jpg)](https://www.bilibili.com/video/BV1YPrKBuEjk) |
+| Deep reinforcement learning from human preferences | OpenAI | 2017 | [论文](https://arxiv.org/abs/1706.03741) |  |
+| Improving Language Understanding by Generative Pre-Training | OpenAI | 2018 | [论文](https://cdn.openai.com/research-covers/language-unsupervised/language_understanding_paper.pdf) | [![封面](https://learnllm.ai/video_cover/gpt1.jpg)](https://www.bilibili.com/video/BV1gW6QBFEG4) |
+| BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding | Google | 2018 | [论文](https://arxiv.org/abs/1810.04805) | [![封面](https://learnllm.ai/video_cover/bert.jpg)](https://www.bilibili.com/video/BV1n2kFBgEJ5) |
+| Language Models are Unsupervised Multitask Learners | OpenAI | 2019 | [论文](https://cdn.openai.com/better-language-models/language_models_are_unsupervised_multitask_learners.pdf) | [![封面](https://learnllm.ai/video_cover/gpt2.jpg)](https://www.bilibili.com/video/BV1VwkWBtEfe) |
+| Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer | Google | 2019 | [论文](https://arxiv.org/abs/1910.10683) | [![封面](https://learnllm.ai/video_cover/t5.jpg)](https://www.bilibili.com/video/BV1fHBfBdEGY) |
+| Language Models are Few-Shot Learners | OpenAI | 2020 | [论文](https://arxiv.org/abs/2005.14165) | [![封面](https://learnllm.ai/video_cover/gpt3.jpg)](https://www.bilibili.com/video/BV14Z63ByEWV) |
+| Evaluating Large Language Models Trained on Code | OpenAI | 2021 | [论文](https://arxiv.org/abs/2107.03374) | [![封面](https://learnllm.ai/video_cover/codex.jpg)](https://www.bilibili.com/video/BV1JC67BEE7b) |
+| Competition-Level Code Generation with AlphaCode | Google | 2022 | [论文](https://arxiv.org/abs/2203.07814) |  |
+| Training language models to follow instructions with human feedback | OpenAI | 2022 | [论文](https://arxiv.org/abs/2203.02155) |  |
+| LLaMA: Open and Efficient Foundation Language Models | Meta | 2023 | [论文](https://arxiv.org/pdf/2302.13971) |  |
+| Llama 2: Open Foundation and Fine-Tuned Chat Models | Meta | 2023 | [论文](https://arxiv.org/abs/2307.09288) |  |
 
+## AGI 之路
 
-<details open>
-<summary>AGI 之路</summary>
-
-## 目录
+### 目录
 
 - 🐳[序-AGI之路](#序-AGI之路)
 - 🐱[第一章-大模型之Pre-Training](#第一章-大模型之Pre-Training)
@@ -88,7 +84,7 @@ LearnLLM.AI 团队
 - 🦁[第十一章-数学](#第十一章-数学)
 </details>
 
-## 序-AGI之路
+### 序-AGI之路
 
 **[⬆ 一键返回目录](#目录)** 
 
@@ -100,11 +96,11 @@ LearnLLM.AI 团队
 
 [Pre-Training预训练Llama-3.1 405B超大杯，需要多少算力资源？](https://mp.weixin.qq.com/s?__biz=MzkyOTY4Mjc4MQ==&mid=2247483839&idx=1&sn=3f35dfe8ed2c87bf4c0b4ac7bfa3e6a9&chksm=c204858df5730c9b8a152a0330dee0183467a063c25aadd0da7cc47d9d5b2f97347fab22708d&token=607452854&lang=zh_CN#rd)
 
-## 第一章-大模型之Pre-Training
+### 第一章-大模型之Pre-Training
 
 **[⬆ 一键返回目录](#目录)** 
 
-### 架构
+#### 架构
 
 [10分钟搞清楚为什么Transformer中使用LayerNorm而不是BatchNorm](01-第一章-预训练/10分钟搞清楚为什么Transformer中使用LayerNorm而不是BatchNorm.md)
 
@@ -114,7 +110,7 @@ LearnLLM.AI 团队
 
 [10分钟了解什么是多模态大模型](01-第一章-预训练/10分钟了解什么是多模态大模型.md)
 
-### Optimizer
+#### Optimizer
 
 [全网最全的神经网络优化器optimizer总结](01-第一章-预训练/全网最全的神经网络优化器optimizer总结.md)
 
@@ -142,7 +138,7 @@ LearnLLM.AI 团队
 
 [神经网络的优化器（十二）RAdam](01-第一章-预训练/神经网络的优化器（十二）RAdam.md)
 
-### 激活函数
+#### 激活函数
 
 [为什么大型语言模型都在使用SwiGLU作为激活函数？](01-第一章-预训练/为什么大型语言模型都在使用SwiGLU作为激活函数？.md)
 
@@ -158,7 +154,7 @@ LearnLLM.AI 团队
 
 [神经网络的激活函数（六）GELU和Mish](<01-第一章-预训练/神经网络的激活函数（六）GELU和Mish.md>)
 
-### Attention机制
+#### Attention机制
 
 [看懂FlashAttention需要的数学储备是？高考数学最后一道大题](01-第一章-预训练/看懂FlashAttention需要的数学储备是？高考数学最后一道大题！.md)
 
@@ -168,7 +164,7 @@ LearnLLM.AI 团队
 
 [一文了解Deepseek系列中的MLA技术](01-第一章-预训练/一文了解Deepseek系列中的MLA技术.md)
 
-### 位置编码
+#### 位置编码
 
 [什么是大模型的位置编码Position-Encoding](<01-第一章-预训练/什么是大模型的位置编码Position-Encoding.md>)
 
@@ -178,7 +174,7 @@ LearnLLM.AI 团队
 
 [从欧拉公式的美到旋转位置编码RoPE](01-第一章-预训练/从欧拉公式的美到旋转位置编码RoPE.md)
 
-### Tokenizer
+#### Tokenizer
 
 [全网最全的大模型分词器（Tokenizer）总结](01-第一章-预训练/全网最全的大模型分词器（Tokenizer）总结.md)
 
@@ -194,7 +190,7 @@ LearnLLM.AI 团队
 
 [搞懂大模型的分词器（六）](01-第一章-预训练/搞懂大模型的分词器（六）.md)
 
-### 并行策略
+#### 并行策略
 
 [大模型并行策略[中文翻译]](01-第一章-预训练/大模型并行策略[中文翻译].md)
 
@@ -208,7 +204,7 @@ LearnLLM.AI 团队
 
 [大模型分布式训练并行技术（五）混合并行](01-第一章-预训练/大模型分布式训练并行技术（五）混合并行.md)
 
-### 大模型训练框架
+#### 大模型训练框架
 
 [大模型训练框架（一）综述](01-第一章-预训练/大模型训练框架（一）综述.md)
 
@@ -221,7 +217,7 @@ LearnLLM.AI 团队
 [大模型训练框架（五）Accelerate](01-第一章-预训练/大模型训练框架（五）Accelerate.md)
 
 
-## 第二章-大模型之部署与推理
+### 第二章-大模型之部署与推理
 
 **[⬆ 一键返回目录](#目录)**
 
@@ -249,7 +245,7 @@ LearnLLM.AI 团队
 
 [大模型推理框架（五）Ollama](02-第二章-部署与推理/大模型推理框架（五）Ollama.md)
 
-## 第三章-大模型微调
+### 第三章-大模型微调
 
 **[⬆ 一键返回目录](#目录)**
 
@@ -281,7 +277,7 @@ LearnLLM.AI 团队
 
 [大模型微调框架（三）Llama-Factory](03-第三章-微调/assest/大模型微调框架（三）Llama-Factory)
 
-## 第四章-大模型量化
+### 第四章-大模型量化
 
 **[⬆ 一键返回目录](#目录)**
 
@@ -289,7 +285,7 @@ LearnLLM.AI 团队
 
 [大模型量化认知的三重境界](04-第四章-量化/大模型量化认知的三重境界.md)
 
-## 第五章-显卡与大模型并行
+### 第五章-显卡与大模型并行
 
 **[⬆ 一键返回目录](#目录)**
 
@@ -299,7 +295,7 @@ LearnLLM.AI 团队
 
 [大模型部署三要素：显存、计算与通信深度解析](05-第五章-显卡与并行/大模型部署三要素：显存、计算与通信深度解析.md)
 
-## 第六章-Prompt-Engineering
+### 第六章-Prompt-Engineering
 
 **[⬆ 一键返回目录](#目录)**
 
@@ -309,7 +305,7 @@ LearnLLM.AI 团队
 
 [COT思维链，TOT思维树，GOT思维图，这些都是什么](<06-第六章-Prompt Engineering/COT思维链，TOT思维树，GOT思维图，这些都是什么.md>)
 
-## 第七章-Agent
+### 第七章-Agent
 
 **[⬆ 一键返回目录](#目录)**
 
@@ -329,7 +325,7 @@ LearnLLM.AI 团队
 
 [langchain向左coze向右](07-第七章-Agent/langchain向左coze向右.md)
 
-### RAG
+#### RAG
 
 [向量数据库拥抱大模型](07-第七章-Agent/向量数据库拥抱大模型.md)
 
@@ -341,7 +337,7 @@ LearnLLM.AI 团队
 
 [10分钟了解如何进行多模态RAG](07-第七章-Agent/10分钟了解如何进行多模态RAG.md)
 
-## 第八章-大模型企业落地
+### 第八章-大模型企业落地
 
 **[⬆ 一键返回目录](#目录)**
 
@@ -357,7 +353,7 @@ LearnLLM.AI 团队
 
 [大模型复读机问题](08-第八章-大模型企业落地/大模型复读机问题.md)
 
-## 第九章-大模型评估指标
+### 第九章-大模型评估指标
 
 [大模型有哪些评估指标？](09-第九章-评估指标/大模型有哪些评估指标？.md)
 
@@ -365,7 +361,7 @@ LearnLLM.AI 团队
 
 [评估指标/大模型性能评测之数星星](09-第九章-评估指标/大模型性能评测之数星星.md)
 
-## 第十章-热点
+### 第十章-热点
 
 **[⬆ 一键返回目录](#目录)**
 
@@ -379,11 +375,11 @@ LearnLLM.AI 团队
 
 [用Exploit and Explore解决不知道吃什么的选择困难症](<10-第十章-热点/用Exploit-and-Explore解决不知道吃什么的选择困难症.md>)
 
-## 第十一章-数学
+### 第十一章-数学
 
 **[⬆ 一键返回目录](#目录)**
 
-### 线性代数
+#### 线性代数
 
 [0基础学习AI大模型必备数学知识之线性代数（一）](11-第十一章-数学/linear-algebra/0基础学习AI大模型必备数学知识之线性代数（一）.md)
 
@@ -391,13 +387,13 @@ LearnLLM.AI 团队
 
 [0基础学习AI大模型必备数学知识之线性代数（三）](11-第十一章-数学/linear-algebra/0基础学习AI大模型必备数学知识之线性代数（三）.md)
 
-### 微积分
+#### 微积分
 
 [0基础学习AI大模型必备数学知识之微积分（一）](11-第十一章-数学/calculus/0基础学习AI大模型必备数学知识之微积分（一）.md)
 
 [0基础学习AI大模型必备数学知识之微积分（二）](11-第十一章-数学/calculus/0基础学习AI大模型必备数学知识之微积分（二）.md)
 
-### 概率统计
+#### 概率统计
 
 [0基础学习AI大模型必备数学知识之概率统计（一）贝叶斯定理和概率分布](11-第十一章-数学/Probability&Statistics/0基础学习AI大模型必备数学知识之概率统计（一）贝叶斯定理和概率分布.md)
 
@@ -405,16 +401,13 @@ LearnLLM.AI 团队
 
 [0基础学习AI大模型必备数学知识之概率统计（三）中心极限定理](11-第十一章-数学/Probability&Statistics/0基础学习AI大模型必备数学知识之概率统计（三）中心极限定理.md)
 
+---
 
-
-# LearnLLM.AI 
-
-# 🌐 点击这里 [LearnLLM.AI](https://learnllm.ai?ref=github) | 学习大模型，从这里开始
+## 🌐 点击这里 [LearnLLM.AI](https://learnllm.ai?ref=github) | 学习大模型，从这里开始
 
 Learning LLM is all you need.
 
 ![LearnLLM.AI](pic/common/pr/learnllm.png)
-
 
 ## Star History
 
