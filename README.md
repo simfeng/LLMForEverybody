@@ -4,25 +4,26 @@
 <a href="https://blog.csdn.net/qq_25295605?spm=1011.2415.3001.5343"> <img src="pic/common/svg/csdn.svg"> </a>
 <a href="https://juejin.cn/user/3824524390049531"> <img src="pic/common/svg/juejin.svg"> </a>
 </p>
+<p align="center"> 
+<img src="pic/common/pr/learnllm.png" alt="LearnLLM.AI" width="600">
+</p>
 
 # LearnLLM.AI | Learning LLM is all you need. 
 
-<img src="pic/common/pr/learnllm.png" alt="LearnLLM.AI" width="600">
+**👉 点击这里 [LearnLLM.AI](https://learnllm.ai?ref=github) | 学习大模型，从这里开始**
 
-## 👉 点击这里 [LearnLLM.AI](https://learnllm.ai?ref=github) | 学习大模型，从这里开始
-
-## LearnLLM.AI 核心亮点
+**LearnLLM.AI 核心亮点**
 
  **精选大模型面试题库** ：覆盖从基础到前沿的实战题目，助您高效备战求职，抓住职业机遇；
 
  **系统化论文研读** ：从2017年Transformer奠基性论文出发，按清晰的知识体系梳理技术演进，适合不同基础的开发者循序渐进地深度提升。
 
 
-## 专属优惠码
+**专属优惠码**
 
 我们为Github用户准备了限时专属优惠码：***GITHUB50*** ，期待在LearnLLM.AI与您继续同行，共同成长！
 
-## 配套视频教程(持续更新中)：
+**配套视频教程(持续更新中)**：
 
 👉 点击这里 [bilibili](https://space.bilibili.com/37863979/lists?sid=7144646)   
 
@@ -34,11 +35,8 @@ Happy Learning！
 
 LearnLLM.AI 团队
 
-
+**LearnLLM.AI | Learning LLM is all you need.**
 ---
-
-## LearnLLM.AI | Learning LLM is all you need.
-
 
 ## LLM 精选论文
 
