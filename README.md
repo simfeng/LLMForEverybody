@@ -52,7 +52,8 @@
 | 2022 | [Training language models to follow instructions with human feedback](https://arxiv.org/abs/2203.02155) |  | [![LearnLLM.AI](https://img.shields.io/badge/LearnLLM.AI-green)](https://www.learnllm.ai/learning?milestone=instructgpt&ref=github) |
 | 2023 | [LLaMA: Open and Efficient Foundation Language Models](https://arxiv.org/pdf/2302.13971) |  | [![LearnLLM.AI](https://img.shields.io/badge/LearnLLM.AI-green)](https://www.learnllm.ai/learning?milestone=llama1&ref=github) |
 | 2023 | [Llama 2: Open Foundation and Fine-Tuned Chat Models](https://arxiv.org/abs/2307.09288) |  | [![LearnLLM.AI](https://img.shields.io/badge/LearnLLM.AI-green)](https://www.learnllm.ai/learning?milestone=llama2&ref=github) |
-
+| 2023 | [Qwen 1](https://arxiv.org/abs/2309.16609) |  | [![LearnLLM.AI](https://img.shields.io/badge/LearnLLM.AI-green)](https://www.learnllm.ai/learning?milestone=qwen1&ref=github) |
+| 2023 | [Mistral 7B](https://arxiv.org/abs/2310.06825) |  | [![LearnLLM.AI](https://img.shields.io/badge/LearnLLM.AI-green)](https://www.learnllm.ai/learning?milestone=mistral-7b&ref=github) |
 持续更新中...
 
 ## AGI 之路
