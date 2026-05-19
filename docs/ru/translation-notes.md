@@ -58,6 +58,8 @@
 - `LoRA`, `QLoRA`, `AdaLoRA`, `PEFT`, `Low-Rank Adapter`, `Low-Rank Adaptation`, `Quantized Low-Rank Adaptation`, `NormalFloat (NF4)` и `SVD` сохраняются в английской форме.
 - `low-rank` передается как `низкоранговый`, `rank` - как `ранг`, `parameter budget` - как `бюджет параметров`.
 - `fine-tuning` и `тонкая настройка` используются по контексту; для `параметрически эффективной тонкой настройки` сохраняется аббревиатура `PEFT`.
+- `Prompting`, `Soft Prompts`, `Hard Prompts`, `Prompt Tuning`, `Prefix-Tuning`, `P-Tuning`, `Multitask Prompt Tuning (MPT)`, `prompt tokens`, `prompt encoder`, `embedding`, `Causal Language Model`, `NLU`, `PLM`, `encoder-decoder` и `decoder` сохраняются в английской форме.
+- `Hadamard product` передается как `произведение Адамара`; `downstream task` - как `downstream-задача`.
 
 ## Ссылки на оригиналы
 
