@@ -42,6 +42,8 @@
 - `Data Parallelism`, `Tensor Parallelism`, `Pipeline Parallelism`, `Model Parallelism`, `ZeRO`, `offload`, `checkpoint` и `mixed precision training` могут сохраняться в английской форме, если так яснее рядом с названием технологии.
 - `位置编码` переводится как `позиционное кодирование`, `旋转位置编码` - как `вращательное позиционное кодирование`; `RoPE`, `FlashAttention`, `Self-Attention`, `Online Softmax`, `Safe Softmax` и `softmax` сохраняются в английской форме.
 - `复变函数` передается как `комплексная функция` или `функция комплексной переменной` по математическому контексту.
+- `MLA`, `Multi-head Latent Attention`, `Multi-Head Attention (MHA)`, `Multi-Query Attention (MQA)` и `Grouped-Query Attention (GQA)` сохраняются в английской форме; при объяснении допустимы `многоголовое внимание` и `группировка query/head`.
+- В статьях про SwiGLU `FFN` сохраняется, `функция активации` остается основным переводом для `激活函数`.
 
 ## Ссылки на оригиналы
 
