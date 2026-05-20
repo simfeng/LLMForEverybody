@@ -78,6 +78,11 @@
 - `Prompt Engineering`, `prompt`, `prompt injection`, `jailbreak`, `DAN`, `CoT`, `ToT`, `GoT`, `Chain-of-Thought`, `Tree-of-Thought`, `Graph-of-Thought`, `Self-Consistency`, `Auto-CoT`, `few-shot`, `zero-shot`, `RLHF`, `Reward model`, `PPO`, `DPO`, `ORPO`, `alignment` и `red teaming` сохраняются в английской форме по контексту.
 - `思维链` передается как `цепочка рассуждений`, `思维树` - как `дерево рассуждений`, `思维图` - как `граф рассуждений`; `越狱` в контексте LLM передается как `jailbreak`.
 
+## Раздел 07: Agent и RAG
+
+- `RAG`, `GraphRAG`, `Baseline RAG`, `Vector DB`, `embedding`, `retrieval`, `query`, `LVLM`, `LLaVA`, `BridgeTower`, `semantic search`, `Long Context`, `Knowledge Graph`, `chunk`, `Load & Process`, `Split/Chunking`, `hybrid search`, `JSON`, `JSONL`, `OCR`, `DLD`, `ViT`, `DONUT`, `private dataset`, `prompt augmentation` и `graph machine learning` сохраняются в английской форме по контексту.
+- `叙述性私人数据` передается как `нарративные приватные данные`; `知识图谱` - как `Knowledge Graph` или `граф знаний` в пояснениях.
+
 ## Ссылки на оригиналы
 
 - Имена файлов и каталогов русского зеркала локализованы в нижнем регистре через дефисы.
