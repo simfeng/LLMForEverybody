@@ -99,6 +99,12 @@
 - `评估指标` передается как `метрики оценки`; `性能评测` - как `оценка производительности`.
 - `Needle In A Haystack`, `Counting Stars`, `long-context`, `Ground Truth`, `accuracy`, `Cross Entropy`, `Entropy`, `Perplexity`, `BLEU`, `ROUGE`, `N-gram`, `benchmark`, `GLUE`, `SuperGLUE`, `SQuAD`, `CoLA`, `CMMLU`, `MathEval`, `Arena`, `Leaderboard` и `Chatbot Arena` сохраняются в английской форме по контексту.
 
+## Раздел 10: Актуальные темы
+
+- `热点` передается как `актуальные темы`; `软考` в статье об экзамене передается как `Ruankao`.
+- `Exploit and Explore`, `reinforcement learning`, `chain of thought`, `Multi-armed bandit`, `MAB`, `epsilon-greedy`, `UCB`, `Thompson Sampling`, `Hoeffding's inequality`, `Beta distribution`, `Bayesian inference`, `Monte Carlo sampling`, `DeepFake`, `Deepfake`, `Diffusion Model`, `GANs`, `AIGC`, `Forward Diffusion`, `Reverse Diffusion`, `embedding` и `facial features` сохраняются в английской форме по контексту.
+- `N 号房` передается как `Nth Room`; в чувствительных темах DeepFake формулировки сохраняются нейтральными и техническими, без усиления деталей.
+
 ## Ссылки на оригиналы
 
 - Имена файлов и каталогов русского зеркала локализованы в нижнем регистре через дефисы.
