@@ -19,7 +19,7 @@
 
 <p align="center"><strong>👉 Visit <a href="https://learnllm.ai?ref=github">LearnLLM.AI</a> | Start learning large language models here</strong></p>
 
-<p align="center"><strong>English learning map: <a href="docs/en/index.md">docs/en</a></strong></p>
+<p align="center"><strong>English learning map: <a href="docs/en/README.md">docs/en</a></strong></p>
 
 ## What LearnLLM.AI Offers
 
@@ -49,7 +49,7 @@ We have a limited-time promo code for GitHub users: ***GITHUB50***. Hope to keep
 
 The English localization mirrors the Russian learning map and covers all published chapters from `00` to `12`:
 
-- [English guide to the repository](docs/en/index.md)
+- [English guide to the repository](docs/en/README.md)
 - [Translation notes and style rules](docs/en/translation-notes.md)
 - [Introduction: the road to AGI](docs/en/00-agi-road/index.md)
 - [Chapter 1. Pre-training](docs/en/01-pre-training/index.md)
