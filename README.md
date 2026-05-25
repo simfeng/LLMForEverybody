@@ -14,7 +14,7 @@
 <p align="center"><strong>Learning LLM is all you need.</strong></p>
 
 <p align="center">
-  中文 | <a href="README.ru.md">Русский</a>
+  中文 | <a href="README.en.md">English</a> | <a href="README.ru.md">Русский</a>
 </p>
 
 <p align="center"><strong>👉 点击 <a href="https://learnllm.ai?ref=github">LearnLLM.AI</a> | 学习大模型，从这里开始</strong></p>
