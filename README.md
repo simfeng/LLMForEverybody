@@ -23,7 +23,9 @@
 
  **精选大模型面试题库**：覆盖从基础到前沿的实战题目，助您高效备战求职，抓住职业机遇；
 
- **系统化论文研读**：从2017年Transformer奠基性论文出发，按清晰的知识体系梳理技术演进，适合不同基础的开发者循序渐进地深度提升。
+ **系统化论文研读**：从2017年Transformer奠基性论文出发，按清晰的知识体系梳理技术演进，适合不同基础的开发者循序渐进地深度提升；
+
+ **精选实战课程**：围绕 AI Agent、RAG 知识库、大模型微调与 LLM 应用开发等核心方向，打磨成体系的中文实战课程，覆盖 LangChain、LlamaIndex、Dify、MCP 等主流工具链，配套项目代码与讲师答疑，支持按主题灵活拆分、按需选学，帮你由点及面搭建完整的大模型知识体系。👉 [浏览全部课程](https://learnllm.ai/courses?ref=github)
 
 
 **专属优惠码**
@@ -76,7 +78,9 @@
 | 2024-05 | [DeepSeek-V2](https://arxiv.org/abs/2405.04434) | 高效 MoE 语言模型，兼顾性能与推理经济性 | [<img src="https://learnllm.ai/video_cover/deepseek-V2.jpg" width="200">](https://www.bilibili.com/video/BV1gGZFBtEnB) | [![LearnLLM.AI](https://img.shields.io/badge/LearnLLM.AI-green)](https://www.learnllm.ai/learning?milestone=deepseek-v2&ref=github) |
 | 2024-06 | [ChatGLM](https://arxiv.org/abs/2406.12793) | 从 GLM-130B 演进到 GLM-4 的国产模型家族 | [<img src="https://learnllm.ai/video_cover/ChatGLM.jpg" width="200">](https://www.bilibili.com/video/BV1yh5t6dEvG) | [![LearnLLM.AI](https://img.shields.io/badge/LearnLLM.AI-green)](https://www.learnllm.ai/learning?milestone=chatglm&ref=github) |
 | 2024-07 | [Llama 3](https://arxiv.org/abs/2407.21783) | Meta 新一代开源旗舰模型 | [<img src="https://learnllm.ai/video_cover/LLaMA-3.jpg" width="200">](https://www.bilibili.com/video/BV1x85t64Exx) | [![LearnLLM.AI](https://img.shields.io/badge/LearnLLM.AI-green)](https://www.learnllm.ai/learning?milestone=llama3-1&ref=github) |
-| 2024-07 | [Gemma 2](https://arxiv.org/abs/2408.00118) | 在实用尺寸上继续提升开源模型性能 |  | [![LearnLLM.AI](https://img.shields.io/badge/LearnLLM.AI-green)](https://www.learnllm.ai/learning?milestone=gemma2&ref=github) |
+| 2024-07 | [Gemma 2](https://arxiv.org/abs/2408.00118) | 在实用尺寸上继续提升开源模型性能 | [<img src="https://learnllm.ai/video_cover/Gemma-2.jpg" width="200">](https://www.bilibili.com/video/BV1F2LP6pEi8) | [![LearnLLM.AI](https://img.shields.io/badge/LearnLLM.AI-green)](https://www.learnllm.ai/learning?milestone=gemma2&ref=github) |
+| 2024-12 | [DeepSeek-V3](https://arxiv.org/abs/2412.19437) | 高效 MoE 架构，兼顾训练成本与模型性能 | [<img src="https://learnllm.ai/video_cover/deepseek-V3.jpg" width="200">](https://www.bilibili.com/video/BV1d5LP6VER4) | [![LearnLLM.AI](https://img.shields.io/badge/LearnLLM.AI-green)](https://www.learnllm.ai/learning?milestone=deepseek-v3&ref=github) |
+| 2025-01 | [DeepSeek-R1](https://arxiv.org/abs/2501.12948) | 通过强化学习增强大模型推理能力 | [<img src="https://learnllm.ai/video_cover/deepseek-R1.jpg" width="200">](https://www.bilibili.com/video/BV1f5VN6LEBB) | [![LearnLLM.AI](https://img.shields.io/badge/LearnLLM.AI-green)](https://www.learnllm.ai/learning?milestone=deepseek-r1&ref=github) |
 | 2025-03 | [Gemma 3](https://arxiv.org/abs/2503.19786) | 原生多模态与 128K 长上下文的 Gemma |  | [![LearnLLM.AI](https://img.shields.io/badge/LearnLLM.AI-green)](https://www.learnllm.ai/learning?milestone=gemma3&ref=github) |
 持续更新中...
 
